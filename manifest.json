@@ -1,0 +1,1008 @@
+{
+    "metadata": {
+        "name": "mg",
+        "manifest": {
+            "version": "v1"
+        }
+    },
+    "sources": [
+        {
+            "id": "_BK7fQS0G7Q",
+            "title": "Bater Punho - Miguel Gonçalves na Praça da Alegria",
+            "length": 541,
+            "dateDownloaded": "2015-07-30T22:26:26.823Z",
+            "size": 5527562,
+            "path": "./sources/_BK7fQS0G7Q.webm"
+        },
+        {
+            "id": "gJMdlN2_VQE",
+            "title": "Palavras Cruzadas - Miguel Gonçalves",
+            "length": 1984,
+            "dateDownloaded": "2015-07-30T22:29:06.985Z",
+            "size": 25662462,
+            "path": "./sources/gJMdlN2_VQE.webm"
+        },
+        {
+            "id": "jSE1JePecIk",
+            "title": "TEDxO'Porto 2012 - Miguel Gonçalves",
+            "length": 1133,
+            "dateDownloaded": "2015-07-30T22:37:27.152Z",
+            "size": 13500399,
+            "path": "./sources/jSE1JePecIk.webm"
+        },
+        {
+            "id": "M_f6Txwc-kk",
+            "title": "TEDxYouth@Braga - MIGUEL GONÇALVES - Vencer o futuro",
+            "length": 1743,
+            "dateDownloaded": "2015-07-30T22:42:01.889Z",
+            "size": 19399937,
+            "path": "./sources/M_f6Txwc-kk.webm"
+        }
+    ],
+    "sounds":
+[
+        {
+            "text": "Puqessa é muito boa",
+            "dateAdded": "2015-07-30T22:54:25.017Z",
+            "disabled": false,
+            "length": 2,
+            "paths": {
+                "mp3": "./sounds/mg_001.mp3",
+                "ogg": "./sounds/mg_001.ogg"
+            },
+            "version": 1,
+            "id": "mg_001",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "2401"
+        },
+        {
+            "text": "Essé muito potente",
+            "dateAdded": "2015-07-30T22:54:25.019Z",
+            "disabled": false,
+            "length": 2,
+            "paths": {
+                "mp3": "./sounds/mg_002.mp3",
+                "ogg": "./sounds/mg_002.ogg"
+            },
+            "version": 1,
+            "id": "mg_002",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "2403"
+        },
+        {
+            "text": "Buntade de lebantar paralelo",
+            "dateAdded": "2015-07-30T22:54:25.019Z",
+            "disabled": false,
+            "length": 2,
+            "paths": {
+                "mp3": "./sounds/mg_003.mp3",
+                "ogg": "./sounds/mg_003.ogg"
+            },
+            "version": 1,
+            "id": "mg_003",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "3609"
+        },
+        {
+            "text": "Gente fim do dia fim do mês pá",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 3,
+            "paths": {
+                "mp3": "./sounds/mg_004.mp3",
+                "ogg": "./sounds/mg_004.ogg"
+            },
+            "version": 1,
+            "id": "mg_004",
+            "sourceID": "M_f6Txwc-kk"
+        },
+        {
+            "text": "É preciso chigar mais cedo e sair mais tarde",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 4,
+            "paths": {
+                "mp3": "./sounds/mg_005.mp3",
+                "ogg": "./sounds/mg_005.ogg"
+            },
+            "version": 1,
+            "id": "mg_005",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "3604"
+        },
+        {
+            "text": "Num sei mas descubro",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 2,
+            "paths": {
+                "mp3": "./sounds/mg_006.mp3",
+                "ogg": "./sounds/mg_006.ogg"
+            },
+            "version": 1,
+            "id": "mg_006",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "3609"
+        },
+        {
+            "text": "Num sei mas procuro",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 2,
+            "paths": {
+                "mp3": "./sounds/mg_007.mp3",
+                "ogg": "./sounds/mg_007.ogg"
+            },
+            "version": 1,
+            "id": "mg_007",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "4200"
+        },
+        {
+            "text": "Num sei mas encontro",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 2,
+            "paths": {
+                "mp3": "./sounds/mg_008.mp3",
+                "ogg": "./sounds/mg_008.ogg"
+            },
+            "version": 1,
+            "id": "mg_008",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "4201"
+        },
+        {
+            "text": "Num sei mas descubro num sei mas procuro num sei mas encontro",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 4,
+            "paths": {
+                "mp3": "./sounds/mg_009.mp3",
+                "ogg": "./sounds/mg_009.ogg"
+            },
+            "version": 1,
+            "id": "mg_009",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "3609"
+        },
+        {
+            "text": "É isto que bale dinheiro no mercado",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 2,
+            "paths": {
+                "mp3": "./sounds/mg_010.mp3",
+                "ogg": "./sounds/mg_010.ogg"
+            },
+            "version": 1,
+            "id": "mg_010",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "4203"
+        },
+        {
+            "text": "Lindo maravilhoso, OBJECTIVO",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 3,
+            "paths": {
+                "mp3": "./sounds/mg_011.mp3",
+                "ogg": "./sounds/mg_011.ogg"
+            },
+            "version": 1,
+            "id": "mg_011",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "4203"
+        },
+        {
+            "text": "Nubeenta e seis porcento",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 3,
+            "paths": {
+                "mp3": "./sounds/mg_012.mp3",
+                "ogg": "./sounds/mg_012.ogg"
+            },
+            "version": 1,
+            "id": "mg_012",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "4203"
+        },
+        {
+            "text": "Se eu tinsinar a fazer",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 3,
+            "paths": {
+                "mp3": "./sounds/mg_013.mp3",
+                "ogg": "./sounds/mg_013.ogg"
+            },
+            "version": 1,
+            "id": "mg_013",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "4207"
+        },
+        {
+            "text": "Tu depois fazes?",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 2,
+            "paths": {
+                "mp3": "./sounds/mg_014.mp3",
+                "ogg": "./sounds/mg_014.ogg"
+            },
+            "version": 1,
+            "id": "mg_014",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "4209"
+        },
+        {
+            "text": "Num é do guberno, num é da Troika nem do FMI",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 4,
+            "paths": {
+                "mp3": "./sounds/mg_015.mp3",
+                "ogg": "./sounds/mg_015.ogg"
+            },
+            "version": 1,
+            "id": "mg_015",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "4809"
+        },
+        {
+            "text": "Ai porqué que a mim ninguém me responde",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 3,
+            "paths": {
+                "mp3": "./sounds/mg_016.mp3",
+                "ogg": "./sounds/mg_016.ogg"
+            },
+            "version": 1,
+            "id": "mg_016",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "4801"
+        },
+        {
+            "text": "Ai porqué que as empresas não querem saber de mim",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 3,
+            "paths": {
+                "mp3": "./sounds/mg_017.mp3",
+                "ogg": "./sounds/mg_017.ogg"
+            },
+            "version": 1,
+            "id": "mg_017",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "4803"
+        },
+        {
+            "text": "Ai porque é que o meu currículo não tem retorno",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 3,
+            "paths": {
+                "mp3": "./sounds/mg_018.mp3",
+                "ogg": "./sounds/mg_018.ogg"
+            },
+            "version": 1,
+            "id": "mg_018",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "4806"
+        },
+        {
+            "text": "Currículo é newsletter e newsletter é SPAM",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 4,
+            "paths": {
+                "mp3": "./sounds/mg_019.mp3",
+                "ogg": "./sounds/mg_019.ogg"
+            },
+            "version": 1,
+            "id": "mg_019",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "601"
+        },
+        {
+            "text": "é SPAM",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 2,
+            "paths": {
+                "mp3": "./sounds/mg_020.mp3",
+                "ogg": "./sounds/mg_020.ogg"
+            },
+            "version": 1,
+            "id": "mg_020",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "604"
+        },
+        {
+            "text": "Este país faz mal às pessoas",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 3,
+            "paths": {
+                "mp3": "./sounds/mg_021.mp3",
+                "ogg": "./sounds/mg_021.ogg"
+            },
+            "version": 1,
+            "id": "mg_021",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "1800"
+        },
+        {
+            "text": "Cumé co mundo bai ser em 2055?",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 4,
+            "paths": {
+                "mp3": "./sounds/mg_022.mp3",
+                "ogg": "./sounds/mg_022.ogg"
+            },
+            "version": 1,
+            "id": "mg_022",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "3006"
+        },
+        {
+            "text": "O bolume aumenta por 2",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 2,
+            "paths": {
+                "mp3": "./sounds/mg_023.mp3",
+                "ogg": "./sounds/mg_023.ogg"
+            },
+            "version": 1,
+            "id": "mg_023",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "3604"
+        },
+        {
+            "text": "O mastro taba tumbado",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 2,
+            "paths": {
+                "mp3": "./sounds/mg_024.mp3",
+                "ogg": "./sounds/mg_024.ogg"
+            },
+            "version": 1,
+            "id": "mg_024",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "4204"
+        },
+        {
+            "text": "O gajo sacaba de uma rolha e de um arame",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 2,
+            "paths": {
+                "mp3": "./sounds/mg_025.mp3",
+                "ogg": "./sounds/mg_025.ogg"
+            },
+            "version": 1,
+            "id": "mg_025",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "4209"
+        },
+        {
+            "text": "Aquilo só dá pa lebantar dinheiro pá",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 3,
+            "paths": {
+                "mp3": "./sounds/mg_026.mp3",
+                "ogg": "./sounds/mg_026.ogg"
+            },
+            "version": 1,
+            "id": "mg_026",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "4204"
+        },
+        {
+            "text": "Num bou cunseguir?!",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 2,
+            "paths": {
+                "mp3": "./sounds/mg_027.mp3",
+                "ogg": "./sounds/mg_027.ogg"
+            },
+            "version": 1,
+            "id": "mg_027",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "5404"
+        },
+        {
+            "text": "É um mecanismo neuro-psico-fisiológico de adaptação",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 3,
+            "paths": {
+                "mp3": "./sounds/mg_028.mp3",
+                "ogg": "./sounds/mg_028.ogg"
+            },
+            "version": 1,
+            "id": "mg_028",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "603"
+        },
+        {
+            "text": "Oooh pá é a bidinha",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 2,
+            "paths": {
+                "mp3": "./sounds/mg_029.mp3",
+                "ogg": "./sounds/mg_029.ogg"
+            },
+            "version": 1,
+            "id": "mg_029",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "1804"
+        },
+        {
+            "text": "Oooh pá nunca pior",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 3,
+            "paths": {
+                "mp3": "./sounds/mg_030.mp3",
+                "ogg": "./sounds/mg_030.ogg"
+            },
+            "version": 1,
+            "id": "mg_030",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "1809"
+        },
+        {
+            "text": "POTENTE OTIMO",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 2,
+            "paths": {
+                "mp3": "./sounds/mg_031.mp3",
+                "ogg": "./sounds/mg_031.ogg"
+            },
+            "version": 1,
+            "id": "mg_031",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "1809"
+        },
+        {
+            "text": "Vais errar",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 2,
+            "paths": {
+                "mp3": "./sounds/mg_032.mp3",
+                "ogg": "./sounds/mg_032.ogg"
+            },
+            "version": 1,
+            "id": "mg_032",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "1208"
+        },
+        {
+            "text": "Todos os dias",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 2,
+            "paths": {
+                "mp3": "./sounds/mg_033.mp3",
+                "ogg": "./sounds/mg_033.ogg"
+            },
+            "version": 1,
+            "id": "mg_033",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "1208"
+        },
+        {
+            "text": "Só num comete erros quem faz sempamema coisa",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 3,
+            "paths": {
+                "mp3": "./sounds/mg_034.mp3",
+                "ogg": "./sounds/mg_034.ogg"
+            },
+            "version": 1,
+            "id": "mg_034",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "1209"
+        },
+        {
+            "text": "Erguer a cabeça pra cima",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 2,
+            "paths": {
+                "mp3": "./sounds/mg_035.mp3",
+                "ogg": "./sounds/mg_035.ogg"
+            },
+            "version": 1,
+            "id": "mg_035",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "1205"
+        },
+        {
+            "text": "Se num os tens a tremer, num tá a acontecer",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 3,
+            "paths": {
+                "mp3": "./sounds/mg_036.mp3",
+                "ogg": "./sounds/mg_036.ogg"
+            },
+            "version": 1,
+            "id": "mg_036",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "1201"
+        },
+        {
+            "text": "Verdadeiramente inubadora",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 3,
+            "paths": {
+                "mp3": "./sounds/mg_037.mp3",
+                "ogg": "./sounds/mg_037.ogg"
+            },
+            "version": 1,
+            "id": "mg_037",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "1807"
+        },
+        {
+            "text": "Nova fresca DIFÍCIL",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 3,
+            "paths": {
+                "mp3": "./sounds/mg_038.mp3",
+                "ogg": "./sounds/mg_038.ogg"
+            },
+            "version": 1,
+            "id": "mg_038",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "1802"
+        },
+        {
+            "text": "Tu vai-te sentir apertado e amassado",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 3,
+            "paths": {
+                "mp3": "./sounds/mg_039.mp3",
+                "ogg": "./sounds/mg_039.ogg"
+            },
+            "version": 1,
+            "id": "mg_039",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "1802"
+        },
+        {
+            "text": "Num dá num fuciona",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 2,
+            "paths": {
+                "mp3": "./sounds/mg_040.mp3",
+                "ogg": "./sounds/mg_040.ogg"
+            },
+            "version": 1,
+            "id": "mg_040",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "1201"
+        },
+        {
+            "text": "Oh pá ergam-se ergam-se",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 3,
+            "paths": {
+                "mp3": "./sounds/mg_041.mp3",
+                "ogg": "./sounds/mg_041.ogg"
+            },
+            "version": 1,
+            "id": "mg_041",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "1803"
+        },
+        {
+            "text": "Tá maaal",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 1,
+            "paths": {
+                "mp3": "./sounds/mg_042.mp3",
+                "ogg": "./sounds/mg_042.ogg"
+            },
+            "version": 1,
+            "id": "mg_042",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "2401"
+        },
+        {
+            "text": "És um camelo que num sabes trabalhar em equipa",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 3,
+            "paths": {
+                "mp3": "./sounds/mg_043.mp3",
+                "ogg": "./sounds/mg_043.ogg"
+            },
+            "version": 1,
+            "id": "mg_043",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "2405"
+        },
+        {
+            "text": "Por conta própria",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 2,
+            "paths": {
+                "mp3": "./sounds/mg_044.mp3",
+                "ogg": "./sounds/mg_044.ogg"
+            },
+            "version": 1,
+            "id": "mg_044",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "3004"
+        },
+        {
+            "text": "Nós temos bergonha derrar, temos bergonha de pedir",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 3,
+            "paths": {
+                "mp3": "./sounds/mg_045.mp3",
+                "ogg": "./sounds/mg_045.ogg"
+            },
+            "version": 1,
+            "id": "mg_045",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "3002"
+        },
+        {
+            "text": "Ai so bizinho me bê",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 2,
+            "paths": {
+                "mp3": "./sounds/mg_046.mp3",
+                "ogg": "./sounds/mg_046.ogg"
+            },
+            "version": 1,
+            "id": "mg_046",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "3005"
+        },
+        {
+            "text": "POUCOS",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 1,
+            "paths": {
+                "mp3": "./sounds/mg_047.mp3",
+                "ogg": "./sounds/mg_047.ogg"
+            },
+            "version": 1,
+            "id": "mg_047",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "3000"
+        },
+        {
+            "text": "Muito mesmo",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 2,
+            "paths": {
+                "mp3": "./sounds/mg_048.mp3",
+                "ogg": "./sounds/mg_048.ogg"
+            },
+            "version": 1,
+            "id": "mg_048",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "3001"
+        },
+        {
+            "text": "Soa-me muito potente este país",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 3,
+            "paths": {
+                "mp3": "./sounds/mg_049.mp3",
+                "ogg": "./sounds/mg_049.ogg"
+            },
+            "version": 1,
+            "id": "mg_049",
+            "sourceID": "M_f6Txwc-kk"
+        },
+        {
+            "text": "Hoube um escândalo em Portugal",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 2,
+            "paths": {
+                "mp3": "./sounds/mg_050.mp3",
+                "ogg": "./sounds/mg_050.ogg"
+            },
+            "version": 1,
+            "id": "mg_050",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "3002"
+        },
+        {
+            "text": "Aqui a bida humana bale mesmo muito dinheiro",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 3,
+            "paths": {
+                "mp3": "./sounds/mg_051.mp3",
+                "ogg": "./sounds/mg_051.ogg"
+            },
+            "version": 1,
+            "id": "mg_051",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "3004"
+        },
+        {
+            "text": "Se fazes tá mal se não fazes também tá mal",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 3,
+            "paths": {
+                "mp3": "./sounds/mg_052.mp3",
+                "ogg": "./sounds/mg_052.ogg"
+            },
+            "version": 1,
+            "id": "mg_052",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "3609"
+        },
+        {
+            "text": "O poder pa mudar o mundo",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 2,
+            "paths": {
+                "mp3": "./sounds/mg_053.mp3",
+                "ogg": "./sounds/mg_053.ogg"
+            },
+            "version": 1,
+            "id": "mg_053",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "3602"
+        },
+        {
+            "text": "Gente que tem cabeças daqui até ao Porto, IR E BIR",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 3,
+            "paths": {
+                "mp3": "./sounds/mg_054.mp3",
+                "ogg": "./sounds/mg_054.ogg"
+            },
+            "version": 1,
+            "id": "mg_054",
+            "sourceID": "M_f6Txwc-kk"
+        },
+        {
+            "text": "Gente eu fui à tropa todos os dias da minha bida, todos, sem excepção",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 6,
+            "paths": {
+                "mp3": "./sounds/mg_055.mp3",
+                "ogg": "./sounds/mg_055.ogg"
+            },
+            "version": 1,
+            "id": "mg_055",
+            "sourceID": "jSE1JePecIk",
+            "startsAt": "3004"
+        },
+        {
+            "text": "A coisa mais dura que há memória",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 3,
+            "paths": {
+                "mp3": "./sounds/mg_056.mp3",
+                "ogg": "./sounds/mg_056.ogg"
+            },
+            "version": 1,
+            "id": "mg_056",
+            "sourceID": "jSE1JePecIk",
+            "startsAt": "3000"
+        },
+        {
+            "text": "Queres faz, queres compra, queres desenrasca, tu",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 4,
+            "paths": {
+                "mp3": "./sounds/mg_057.mp3",
+                "ogg": "./sounds/mg_057.ogg"
+            },
+            "version": 1,
+            "id": "mg_057",
+            "sourceID": "jSE1JePecIk",
+            "startsAt": "3003"
+        },
+        {
+            "text": "Na minha bida mando eu!",
+            "dateAdded": "2015-07-30T22:54:25.021Z",
+            "disabled": false,
+            "length": 2,
+            "paths": {
+                "mp3": "./sounds/mg_058.mp3",
+                "ogg": "./sounds/mg_058.ogg"
+            },
+            "version": 1,
+            "id": "mg_058",
+            "sourceID": "jSE1JePecIk",
+            "startsAt": "3603"
+        },
+        {
+            "text": "Bem aí o leoum",
+            "dateAdded": "2015-07-30T22:54:25.021Z",
+            "disabled": false,
+            "length": 1,
+            "paths": {
+                "mp3": "./sounds/mg_059.mp3",
+                "ogg": "./sounds/mg_059.ogg"
+            },
+            "version": 1,
+            "id": "mg_059",
+            "sourceID": "jSE1JePecIk",
+            "startsAt": "4805"
+        },
+        {
+            "text": "Tens aí um gémeo siamês agrafado à cabeça",
+            "dateAdded": "2015-07-30T22:54:25.021Z",
+            "disabled": false,
+            "length": 3,
+            "paths": {
+                "mp3": "./sounds/mg_060.mp3",
+                "ogg": "./sounds/mg_060.ogg"
+            },
+            "version": 1,
+            "id": "mg_060",
+            "sourceID": "jSE1JePecIk",
+            "startsAt": "2403"
+        },
+        {
+            "text": "E num é à toa",
+            "dateAdded": "2015-07-30T22:54:25.021Z",
+            "disabled": false,
+            "length": 2,
+            "paths": {
+                "mp3": "./sounds/mg_061.mp3",
+                "ogg": "./sounds/mg_061.ogg"
+            },
+            "version": 1,
+            "id": "mg_061",
+            "sourceID": "jSE1JePecIk",
+            "startsAt": "03"
+        },
+        {
+            "text": "Depressa",
+            "dateAdded": "2015-07-30T22:54:25.021Z",
+            "disabled": false,
+            "length": 2,
+            "paths": {
+                "mp3": "./sounds/mg_062.mp3",
+                "ogg": "./sounds/mg_062.ogg"
+            },
+            "version": 1,
+            "id": "mg_062",
+            "sourceID": "jSE1JePecIk",
+            "startsAt": "07"
+        },
+        {
+            "text": "Isto é pa dar ao caniço com muita muita força",
+            "dateAdded": "2015-07-30T22:54:25.021Z",
+            "disabled": false,
+            "length": 4,
+            "paths": {
+                "mp3": "./sounds/mg_063.mp3",
+                "ogg": "./sounds/mg_063.ogg"
+            },
+            "version": 1,
+            "id": "mg_063",
+            "sourceID": "_BK7fQS0G7Q",
+            "startsAt": "4806"
+        },
+        {
+            "text": "E eles ficavam OOOH OOOH",
+            "dateAdded": "2015-07-30T22:54:25.021Z",
+            "disabled": false,
+            "length": 4,
+            "paths": {
+                "mp3": "./sounds/mg_064.mp3",
+                "ogg": "./sounds/mg_064.ogg"
+            },
+            "version": 1,
+            "id": "mg_064",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "4807"
+        },
+        {
+            "text": "E se pelo caminho surgir uma lebre tu comes",
+            "dateAdded": "2015-07-30T22:54:25.021Z",
+            "disabled": false,
+            "length": 3,
+            "paths": {
+                "mp3": "./sounds/mg_065.mp3",
+                "ogg": "./sounds/mg_065.ogg"
+            },
+            "version": 1,
+            "id": "mg_065",
+            "sourceID": "gJMdlN2_VQE",
+            "startsAt": "03"
+        },
+        {
+            "text": "E se pelo caminho surgir outra gazela tu comes",
+            "dateAdded": "2015-07-30T22:54:25.021Z",
+            "disabled": false,
+            "length": 3,
+            "paths": {
+                "mp3": "./sounds/mg_066.mp3",
+                "ogg": "./sounds/mg_066.ogg"
+            },
+            "version": 1,
+            "id": "mg_066",
+            "sourceID": "gJMdlN2_VQE",
+            "startsAt": "06"
+        },
+        {
+            "text": "Surgir um bisonte muito grande, e tu atacas",
+            "dateAdded": "2015-07-30T22:54:25.021Z",
+            "disabled": false,
+            "length": 3,
+            "paths": {
+                "mp3": "./sounds/mg_067.mp3",
+                "ogg": "./sounds/mg_067.ogg"
+            },
+            "version": 1,
+            "id": "mg_067",
+            "sourceID": "gJMdlN2_VQE",
+            "startsAt": "08"
+        },
+        {
+            "text": "Aquilo se calhar nem sequer é uma gazela, nao vale a pena, é uma árvore",
+            "dateAdded": "2015-07-30T22:54:25.021Z",
+            "disabled": false,
+            "length": 4,
+            "paths": {
+                "mp3": "./sounds/mg_068.mp3",
+                "ogg": "./sounds/mg_068.ogg"
+            },
+            "version": 1,
+            "id": "mg_068",
+            "sourceID": "gJMdlN2_VQE",
+            "startsAt": "06"
+        },
+        {
+            "text": "Épa olhali ó fundo uma arbore se calhar tem uma gazela latras!",
+            "dateAdded": "2015-07-30T22:54:25.021Z",
+            "disabled": false,
+            "length": 4,
+            "paths": {
+                "mp3": "./sounds/mg_069.mp3",
+                "ogg": "./sounds/mg_069.ogg"
+            },
+            "version": 1,
+            "id": "mg_069",
+            "sourceID": "gJMdlN2_VQE",
+            "startsAt": "601"
+        }
+    ]
+}
