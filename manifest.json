@@ -37,37 +37,57 @@
             "dateDownloaded": "2015-07-30T22:42:01.889Z",
             "size": 19399937,
             "path": "./sources/M_f6Txwc-kk.webm"
-        }
-    ],
-    "sounds":
-[
-        {
-            "text": "Puqessa é muito boa",
-            "dateAdded": "2015-07-30T22:54:25.017Z",
-            "disabled": false,
-            "length": 2,
-            "paths": {
-                "mp3": "./sounds/mg_001.mp3",
-                "ogg": "./sounds/mg_001.ogg"
-            },
-            "version": 1,
-            "id": "mg_001",
-            "sourceID": "M_f6Txwc-kk",
-            "startsAt": "2401"
         },
         {
-            "text": "Essé muito potente",
-            "dateAdded": "2015-07-30T22:54:25.019Z",
+            "id": "BCRYLfN5uPM",
+            "title": "Miguel Gonçalves | Empreendedorismo, Momentos de Mudança, SIC",
+            "length": 1858,
+            "dateDownloaded": "2015-10-13T10:41:48.682Z",
+            "size": 19833227,
+            "path": "./sources/BCRYLfN5uPM.webm"
+        }
+    ],
+    "sounds": [
+        {
+            "text": "Gente fim do dia fim do mês pá",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 3,
+            "paths": {
+                "mp3": "./sounds/mg_004.mp3",
+                "ogg": "./sounds/mg_004.ogg"
+            },
+            "version": 1,
+            "id": "mg_004",
+            "sourceID": "M_f6Txwc-kk"
+        },
+        {
+            "text": "Erguer a cabeça pra cima",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
             "disabled": false,
             "length": 2,
             "paths": {
-                "mp3": "./sounds/mg_002.mp3",
-                "ogg": "./sounds/mg_002.ogg"
+                "mp3": "./sounds/mg_035.mp3",
+                "ogg": "./sounds/mg_035.ogg"
             },
             "version": 1,
-            "id": "mg_002",
+            "id": "mg_035",
             "sourceID": "M_f6Txwc-kk",
-            "startsAt": "2403"
+            "startsAt": "1205"
+        },
+        {
+            "text": "Se num os tens a tremer, num tá a acontecer",
+            "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 3,
+            "paths": {
+                "mp3": "./sounds/mg_036.mp3",
+                "ogg": "./sounds/mg_036.ogg"
+            },
+            "version": 1,
+            "id": "mg_036",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "1201"
         },
         {
             "text": "Buntade de lebantar paralelo",
@@ -84,31 +104,32 @@
             "startsAt": "3609"
         },
         {
-            "text": "Gente fim do dia fim do mês pá",
+            "text": "Essé muito potente",
+            "dateAdded": "2015-07-30T22:54:25.019Z",
+            "disabled": false,
+            "length": 2,
+            "paths": {
+                "mp3": "./sounds/mg_002.mp3",
+                "ogg": "./sounds/mg_002.ogg"
+            },
+            "version": 1,
+            "id": "mg_002",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "2403"
+        },
+        {
+            "text": "Nova fresca DIFÍCIL",
             "dateAdded": "2015-07-30T22:54:25.020Z",
             "disabled": false,
             "length": 3,
             "paths": {
-                "mp3": "./sounds/mg_004.mp3",
-                "ogg": "./sounds/mg_004.ogg"
+                "mp3": "./sounds/mg_038.mp3",
+                "ogg": "./sounds/mg_038.ogg"
             },
             "version": 1,
-            "id": "mg_004",
-            "sourceID": "M_f6Txwc-kk"
-        },
-        {
-            "text": "É preciso chigar mais cedo e sair mais tarde",
-            "dateAdded": "2015-07-30T22:54:25.020Z",
-            "disabled": false,
-            "length": 4,
-            "paths": {
-                "mp3": "./sounds/mg_005.mp3",
-                "ogg": "./sounds/mg_005.ogg"
-            },
-            "version": 1,
-            "id": "mg_005",
+            "id": "mg_038",
             "sourceID": "M_f6Txwc-kk",
-            "startsAt": "3604"
+            "startsAt": "1802"
         },
         {
             "text": "Num sei mas descubro",
@@ -123,20 +144,6 @@
             "id": "mg_006",
             "sourceID": "M_f6Txwc-kk",
             "startsAt": "3609"
-        },
-        {
-            "text": "Num sei mas procuro",
-            "dateAdded": "2015-07-30T22:54:25.020Z",
-            "disabled": false,
-            "length": 2,
-            "paths": {
-                "mp3": "./sounds/mg_007.mp3",
-                "ogg": "./sounds/mg_007.ogg"
-            },
-            "version": 1,
-            "id": "mg_007",
-            "sourceID": "M_f6Txwc-kk",
-            "startsAt": "4200"
         },
         {
             "text": "Num sei mas encontro",
@@ -517,32 +524,32 @@
             "startsAt": "1209"
         },
         {
-            "text": "Erguer a cabeça pra cima",
+            "text": "É preciso chigar mais cedo e sair mais tarde",
             "dateAdded": "2015-07-30T22:54:25.020Z",
+            "disabled": false,
+            "length": 4,
+            "paths": {
+                "mp3": "./sounds/mg_005.mp3",
+                "ogg": "./sounds/mg_005.ogg"
+            },
+            "version": 1,
+            "id": "mg_005",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "3604"
+        },
+        {
+            "text": "Puqessa é muito boa",
+            "dateAdded": "2015-07-30T22:54:25.017Z",
             "disabled": false,
             "length": 2,
             "paths": {
-                "mp3": "./sounds/mg_035.mp3",
-                "ogg": "./sounds/mg_035.ogg"
+                "mp3": "./sounds/mg_001.mp3",
+                "ogg": "./sounds/mg_001.ogg"
             },
             "version": 1,
-            "id": "mg_035",
+            "id": "mg_001",
             "sourceID": "M_f6Txwc-kk",
-            "startsAt": "1205"
-        },
-        {
-            "text": "Se num os tens a tremer, num tá a acontecer",
-            "dateAdded": "2015-07-30T22:54:25.020Z",
-            "disabled": false,
-            "length": 3,
-            "paths": {
-                "mp3": "./sounds/mg_036.mp3",
-                "ogg": "./sounds/mg_036.ogg"
-            },
-            "version": 1,
-            "id": "mg_036",
-            "sourceID": "M_f6Txwc-kk",
-            "startsAt": "1201"
+            "startsAt": "2401"
         },
         {
             "text": "Verdadeiramente inubadora",
@@ -559,18 +566,18 @@
             "startsAt": "1807"
         },
         {
-            "text": "Nova fresca DIFÍCIL",
+            "text": "Num sei mas procuro",
             "dateAdded": "2015-07-30T22:54:25.020Z",
             "disabled": false,
-            "length": 3,
+            "length": 2,
             "paths": {
-                "mp3": "./sounds/mg_038.mp3",
-                "ogg": "./sounds/mg_038.ogg"
+                "mp3": "./sounds/mg_007.mp3",
+                "ogg": "./sounds/mg_007.ogg"
             },
             "version": 1,
-            "id": "mg_038",
+            "id": "mg_007",
             "sourceID": "M_f6Txwc-kk",
-            "startsAt": "1802"
+            "startsAt": "4200"
         },
         {
             "text": "Tu vai-te sentir apertado e amassado",
@@ -837,20 +844,6 @@
             "startsAt": "3003"
         },
         {
-            "text": "Na minha bida mando eu!",
-            "dateAdded": "2015-07-30T22:54:25.021Z",
-            "disabled": false,
-            "length": 2,
-            "paths": {
-                "mp3": "./sounds/mg_058.mp3",
-                "ogg": "./sounds/mg_058.ogg"
-            },
-            "version": 1,
-            "id": "mg_058",
-            "sourceID": "jSE1JePecIk",
-            "startsAt": "3603"
-        },
-        {
             "text": "Bem aí o leoum",
             "dateAdded": "2015-07-30T22:54:25.021Z",
             "disabled": false,
@@ -863,6 +856,20 @@
             "id": "mg_059",
             "sourceID": "jSE1JePecIk",
             "startsAt": "4805"
+        },
+        {
+            "text": "E eles ficavam OOOH OOOH",
+            "dateAdded": "2015-07-30T22:54:25.021Z",
+            "disabled": false,
+            "length": 4,
+            "paths": {
+                "mp3": "./sounds/mg_064.mp3",
+                "ogg": "./sounds/mg_064.ogg"
+            },
+            "version": 1,
+            "id": "mg_064",
+            "sourceID": "M_f6Txwc-kk",
+            "startsAt": "4807"
         },
         {
             "text": "Tens aí um gémeo siamês agrafado à cabeça",
@@ -921,18 +928,18 @@
             "startsAt": "4806"
         },
         {
-            "text": "E eles ficavam OOOH OOOH",
+            "text": "Na minha bida mando eu!",
             "dateAdded": "2015-07-30T22:54:25.021Z",
             "disabled": false,
-            "length": 4,
+            "length": 2,
             "paths": {
-                "mp3": "./sounds/mg_064.mp3",
-                "ogg": "./sounds/mg_064.ogg"
+                "mp3": "./sounds/mg_058.mp3",
+                "ogg": "./sounds/mg_058.ogg"
             },
             "version": 1,
-            "id": "mg_064",
-            "sourceID": "M_f6Txwc-kk",
-            "startsAt": "4807"
+            "id": "mg_058",
+            "sourceID": "jSE1JePecIk",
+            "startsAt": "3603"
         },
         {
             "text": "E se pelo caminho surgir uma lebre tu comes",
@@ -1003,6 +1010,20 @@
             "id": "mg_069",
             "sourceID": "gJMdlN2_VQE",
             "startsAt": "601"
+        },
+        {
+            "id": "000070",
+            "version": 1,
+            "sourceID": "BCRYLfN5uPM",
+            "paths": {
+                "mp3": "./sounds/000070.mp3",
+                "ogg": "./sounds/000070.ogg"
+            },
+            "startsAt": 1385,
+            "length": 3,
+            "text": "Ainda estou a pensar no self-driving car",
+            "dateAdded": "2015-10-13T10:52:39.907Z",
+            "disabled": false
         }
     ]
 }
